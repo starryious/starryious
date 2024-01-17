@@ -1,10 +1,8 @@
-<img src="https://github.com/starryious/starryious/blob/main/images/shakechi.png">
+<img src="https://github.com/starryious/starryious/blob/main/images/chi.png">
 <p align="center">
-<a href="https://github.com/starryious">
-<img src="https://komarev.com/ghpvc/?username=preminstrel&style=flat-square" alt="preminstrel" />
 </a>
- <a href="mailto:preminstrel@gmail.com">
- <img src="https://img.shields.io/badge/-preminstrel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:preminstrel@gmail.com">
+ <a href="mailto:shakechi.wang@gmail.com">
+ <img src="https://img.shields.io/badge/-shakechi.wang@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shakechi.wang@gmail.com">
 </a>
  <a>
   <a href="https://www.zhihu.com/people/preminstrel" target="_blank">
