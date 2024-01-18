@@ -23,8 +23,7 @@
 
 
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
-<img alt="RStudio" src="https://img.shields.io/badge/Rstudio-grey?style=flat-square&logo=rstudio&logoColor=%2375AADB
-" />
+<img alt="RStudio" src="https://img.shields.io/badge/Rstudio-grey?style=flat-square&logo=rstudio&logoColor=%2375AADB" />
 
 </p>
 
